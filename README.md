@@ -3,8 +3,7 @@
 ### Dev Full Stack em formação
 *Building real apps while learning — web, mobile & APIs.*
 
-Estudante de programação focado em projetos reais: sistemas web, apps mobile e APIs.  
-Aberto a **estágio / júnior** e **freelas**.
+Estudante de programação focado em projetos reais: sistemas web, apps mobile e APIs.
 
 ---
 
