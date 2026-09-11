@@ -24,7 +24,6 @@ Aberto a **estágio / júnior** e **freelas**.
 
 ### SGA — Sistema de Gestão de Atividades
 App web + mobile para organizar atividades.  
-Demo web: [sga-app-six.vercel.app](https://sga-app-six.vercel.app)
 
 ### MG Montagem — Site institucional
 Site da empresa MG Montagem.  
